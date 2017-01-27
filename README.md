@@ -1,4 +1,6 @@
 # csslint-stylish
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SimenB/csslint-stylish.svg)](https://greenkeeper.io/)
 > Stylish formatter for CSSLint
 
 [![NPM version][npm-image]][npm-url]
